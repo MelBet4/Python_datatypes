@@ -1,0 +1,48 @@
+# Python Challenge - Basic data types
+
+### 🔹 **Lists**
+
+1. Write a program that accepts user input to create a list of integers. Compute the **sum, average, min, and max**.
+2. Ask the user for a list of numbers. Create a new list containing only the **even numbers**.
+3. Accept a list of integers from the user and print the list in **reverse order** without using `reverse()` or slicing.
+
+---
+
+### 🔹 **Tuples**
+
+4. Create a tuple containing five of your favorite movies. Use a `for` loop to print them with their **index numbers**.
+5. Ask the user to enter five colors and store them in a tuple. Then ask the user for a number (index) and print the color at that index, or `"Invalid index"` if it doesn’t exist.
+6. Given a tuple of numbers `(10, 20, 30, 40, 50)`, create a new tuple containing only the **first and last elements**.
+
+---
+
+### 🔹 **Dictionaries**
+
+7. Write a program that stores a dictionary with keys: `"name"`, `"age"`, and `"city"`. Ask the user to input the values, then print the dictionary.
+8. Extend challenge #7: Ask the user if they want to **update** one of the values. If yes, let them choose which key to update and enter a new value.
+9. Create a dictionary where the keys are **numbers 1–5** and the values are their **squares**. Print the dictionary.
+
+---
+
+### 🔹 **Sets**
+
+10. Accept two sets of integers from the user. Print their **union, intersection, and difference**.
+11. Create a set of numbers from 1–10. Remove all even numbers from the set and print the result.
+12. Write a program that checks whether two sets entered by the user are **disjoint** (no elements in common).
+
+---
+
+### 🔹 **List Comprehension**
+
+13. Ask the user to enter a list of words. Use list comprehension to create a list of words that are **longer than 4 characters**.
+14. Create a list of numbers from 1–20 using list comprehension. Then use another list comprehension to keep only the **multiples of 3**.
+15. Ask the user for a sentence. Use list comprehension to create a list of all the **words that start with a vowel**.
+
+---
+
+✨ Bonus Challenge: Combine everything!
+
+* Ask the user for student names and scores, store them in a dictionary.
+* Create a list of students who scored above the average using **list comprehension**.
+* Print the set of all scores (to remove duplicates).
+
